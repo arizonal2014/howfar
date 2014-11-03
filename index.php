@@ -208,7 +208,7 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to Harrison Idolor sOCIAL Network</h1>
+            <h1>Welcome to My very first Harrison Idolor Social Network</h1>
           </hgroup>
 
 
