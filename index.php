@@ -208,7 +208,7 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your PHP application on OpenShift</h1>
+            <h1>Welcome to Harrison Idolor sOCIAL Network</h1>
           </hgroup>
 
 
